@@ -1,0 +1,26 @@
+.container {
+    height: 100px;
+    width: 350px;
+    border: 2px solid black;
+    padding: 0px 15px;
+}
+.topRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.name {
+    font-weight: bold;
+}
+#number {
+    margin-left: 75px;
+}
+button {
+    background-color: rgb(255,217,102);
+    border: 1px solid black;
+    box-shadow: 1px 1px 1px 1px;
+}
+p {
+    text-align: center;
+    margin: 10px;
+}
